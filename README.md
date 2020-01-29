@@ -1,11 +1,13 @@
-# Oswald
+# ListaCores
 
-Essa Aplicação é só um hello world
-onde tem um label escrito "fala galera!"
+Essa Aplicação que eu desenvolvi 
+onde ela mostra uma lista de cores hexadecimal
+e rgb para facilitar a escolha da cor para os projetos
 
 ## Observação:
-- Python 3.7
-- Biblioteca Tkinter, não nescessita instalação só a instalação do python.
+- React-Native
+- Components Flatlist, Text
+- Uso de Array 
 - Desenvolvido em Windowns SO
 
 
@@ -16,6 +18,8 @@ onde tem um label escrito "fala galera!"
 - Facebook: https://www.facebook.com/ecaetanocorrea
 
 
-## Imagem:
+## Imagens:
 
-<img src="https://lh3.googleusercontent.com/_ggUY0jx4ZPSSxjkLlD67lP0LcSOQ4fVqnLmjQUJOJAXn-SOg50F_ePfJbfSSwoJMPlMR6lhHWbia4AFI630A26KBHyF5FVg_5tZq_WzcFuqIW2tso5q6NksM1S3OJJpiXbidUr8O_ywcT5UMS3m-_JRpSjgof9rzy8SMKXHiuRfFy6wBlOcDPEG1DhqwI17BtnUjA221Re_t6NkF0LBNp1Kw4k8ISsZFeYtqaVzf1bC-fdauC8bkjJUwdjvuuhv9DEybinj6KqXOxiW1LTxJeJGB2qIPtUnE5KZTmUhwzUbrZqoFjQCZgd38Y6wagqVxFMAYofpAtiMG0eYRDOQY1tvS4729ewdRUWthgmqCuaSUweodgRvFyoPTLrb4m1T4oEw4Iru8PHIwjH65RIaW8dhou-DW4SdGnyL5oqjEIYydj8z648atiVksPS59GQ3vc6sZIJIbE_wzARuY-iHdub75f_xfRUNXHIwLYAQiHeW9n3XA6BLAji0YAgaC7L4v-g1UkPnFCFrVU3XxL7oUcNww-Vw5e_-MmVcHYUhlvc0yZEG3lP2XZz_I8TB21WZg_DRbc3_tNCTi-Yzc2LzFl_ncoSfSNsYjS8v5Hs3nkRHfy3A30P_G2sJ2-thKSBXuNK_qAGUeNYyKCmNNebLWJGV9eHXLdXNa-Igl8jpzx0DJdqzZsNkh-I=w354-h243-no" alt="Print da aplicação sendo executada" height="400" width="400">
+<img jsname="uLHQEd" alt="Print da aplicação sendo executada" width="393" height="697" src="https://lh3.googleusercontent.com/lP4nogObPnw9ddQhQUXn5MehyDjWrTZuF_P5-wwJCrHz9fGj5V-XqOqWFaIZtVze8otJOVwyKo208zJaekXphcOGyJ7Kw6NCWoIk_weY0X6vwVXM81fJhNZcTVjF73vVg2kqU81YKwj7Naz7NJs2UtiDHv27GSFWe1erZ9nElFmAoLURfAnxnofw3z11PHVvAgJ3HvmwHMX10bE2_AY8AjpXOHTI_jOrFxpM7ikn0hdgNI9_C46X_G1bgyMBCGbvycp8gq9Ys7DkJRwlcJY5GRJ7AarFCfw7I1L-xidBGETFW-YNk04gTfZ62x3wbeUgcEuGfQN75P6xV-Ksd90JUcpp4ichy3UGHqZiw46rRSrlPHvlkQvTIa5TeUG2_JLsrOHwS7fRtEGDy7o4LL46WtySfCp93SOq-8rdgQq9mJBcNYvKMu1qxzKz4-l7SedurMjf44byLJXOuGhzMY0qmv-P29-Mxsq83ZFEYgellPE63XBOWVDc850EI8gst1uSx_PlqNos97vDsHbT1i-SR2QTpOt3u8YFSgQ1K9VKfpuUXZEGMBYoqotVsLeUKm6qqmDl5dZb1gacZBXgnfNlmgaWgQys_j9FcOAu6WrGHgDaX_Ef_acWvn28wOoPm1H3r-m-H3nbXdiZ3dd65qeasqO-dyy01l2vOxh9FBrc_bUocuya9etd9Z0=w393-h697-no" data-atf="false" data-iml="86268.67499999935" style="" aria-label="Foto: Retrato - 29 de jan. de 2020 04:32:42">
+
+<img jsname="uLHQEd"  alt="Print da aplicação sendo executada" width="393" height="697" src="https://lh3.googleusercontent.com/v9iPL_YEb9-s8VyIgNZK_4YL3wlPBIYSl7Scvkb2kH_6b5AOYqnw3FO_3VxMcuETUS8yKzTiW1BDE3SoXB2c8Orp7sQWvNGO-sHkFsvKECtdaoX5S5FFeuot2Ugvb5i0TmLYduJ5YFHj3wEPJZ43oiw0lrxqFxkiuxtfgPX3-dA8M-57vmAHsk3rtlltTKH_JXnN778O9dAbgbQQGVqxMsLuDb5Ql7zjtt_x6IPGz6QA4cdiDGhmNOmBuBSn5EiSb80hTDFgp7P-0_pyXsxrl1ny_iJFQdZGYnWADoHXlt9R6RP5WIMS0Yd5n_b6YNp0UodF6FfO0M158BpNHYaC4hi3-g63nwmPcHQKXNkofpAWRRNlbS3XLS-13Zt7Dc42TCGP6QPgVdSgO4nmb-6EsZBVMHukdunrQ1IDMUYuelQeg8M6ru4CW7aQShNSJKxKbcEG06tdBFEhSo6jbdp0Usi2L2FJ9dQBnD9nmAsEBb5MmDJZ3qPnJmKvVTFQuvO7HOPeL9lj5oIxMpsweVEHSzEZmGm8y-Psv_CKlaprVFl9NvdavJ0Fhx5BdeAfpP1290dJ0Us0k0nMoWl_BV-xz_PJvWN-PcPd21AGcJSw6KpNPeacyUCmnvsL0iQZyiPYrQ3jF1dtnP20uK-Lzyjp_krTv7BaPDYVAD-bfKG1bPNakhiT7MlwRRs=w393-h697-no" aria-label="Foto: Retrato - 29 de jan. de 2020 04:32:50" data-iml="86269.05499999702" style="transform: translate3d(0px, 0px, 0px) rotate(0deg);">
